@@ -1,0 +1,9 @@
+[
+    {
+        "caption": "-"
+    },
+    {
+        "caption": "Search on MDN...",
+        "command": "mdn_selection_search",
+    }
+]
